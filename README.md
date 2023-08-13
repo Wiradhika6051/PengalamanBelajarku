@@ -1,6 +1,13 @@
 # PengalamanBelajarku
 Repository ini berisi pengalaman belajarku di Dicoding
 
+**10 Agustus 2023**  
+Belajar pengenalan ke pemrograman.
+ * Belajar logika komputasional
+ * Belajar dasar pemrograman seperti variabel, loop, kondisional
+ * Merancang SKPL
+ * Belajar javascript
+
 **12 Agustus 2023**  
 Belajar kelas dasar logika pemrograman.
  * Belajar tentang beda logika dan algoritma
