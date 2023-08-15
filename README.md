@@ -23,4 +23,4 @@ Belajar kelas Belajar dasar Git dengan GitHub.
 
 ** 15 Agustus 2023**
 
-Lanjut belajar git lagi
+Lanjut belajar git tentang merge dan pull request
