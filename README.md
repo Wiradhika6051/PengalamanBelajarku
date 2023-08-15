@@ -20,3 +20,7 @@ Belajar kelas Belajar dasar Git dengan GitHub.
   * Mengenal apa itu git dan github
   * Belajar command dasar seperti **commit**, **push**, **reset**, dan **revert**.
   * Belajar cara membuat repositori, push, serta membuat rilis
+
+** 15 Agustus 2023**
+
+Lanjut belajar git
